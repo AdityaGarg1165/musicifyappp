@@ -1,4 +1,4 @@
-# musicify_app
+# musicifyappp
 
 A new Flutter project.
 
